@@ -9,11 +9,9 @@ api_keys
 #Folders ignore
 __pycache__
 
+
 #Files ignore
 bounding_box.py
-traffic-incident-test.txt
-traffic-in-the-area
 traffic.py
 *.wav
-
-test.py
+log.txt
