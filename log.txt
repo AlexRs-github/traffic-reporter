@@ -1,0 +1,38 @@
+1)  @ 20190313-1702 --- Ramp  to I-90/I-94/Dan Ryan Expy Eastbound - Roadwork.
+Coordinates: 41.87248, -87.64574
+2)  @ 20190313-1702 --- Ramp  to I-90/I-94 Westbound and W Monroe St - Roadwork.
+Coordinates: 41.87523, -87.64807
+3)  @ 20190313-1702 --- Ramp  closed to Canal St - Closed due to roadwork.
+Coordinates: 41.87584, -87.63982
+4)  @ 20190313-1702 --- Ramp  closed to I-90/I-94 Eastbound and W Taylor St - Closed due to roadwork.
+Coordinates: 41.87571, -87.64355
+5)  @ 20190313-1702 --- Ramp  closed to Eisenhower Expy - Closed due to roadwork.
+Coordinates: 41.87548, -87.64197
+6)  @ 20190313-1702 --- Closed at Canal St - Closed due to roadwork.
+Coordinates: 41.87667, -87.64717
+7)  @ 20190313-1702 --- Closed between S Desplaines St and S Halstead St - Closed due to roadwork.
+Coordinates: 41.88052, -87.64404
+8)  @ 20190313-1702 --- Ramp  closed to Exit 51D - Closed due to roadwork.
+Coordinates: 41.87996, -87.64551
+9)  @ 20190313-1702 --- Ramp  to I-90/I-94 Eastbound and W Taylor St - Roadwork.
+Coordinates: 41.8741, -87.64598
+10)  @ 20190313-1702 --- At Ohio St/Exit 50B - Queuing traffic. Approach with care.
+Coordinates: 41.893879, -87.654728
+11)  @ 20190313-1702 --- Ramp  to I-90/I-94 and S Union Ave - Roadwork.
+Coordinates: 41.87537, -87.64933
+12)  @ 20190313-1702 --- At Ogden Ave/Exit 50A - Queuing traffic. Approach with care.
+Coordinates: 41.89451, -87.65598
+13)  @ 20190313-1702 --- Ramp  to I-90/I-94 - Roadwork.
+Coordinates: 41.8777, -87.64545
+14)  @ 20190313-1702 --- Ramp  closed to Exit 29B - Closed due to roadwork.
+Coordinates: 41.87576, -87.65013
+15)  @ 20190313-1702 --- At Polk St - Roadwork.
+Coordinates: 41.8735, -87.64559
+16)  @ 20190313-1702 --- Between Clark St and Morgan St - Construction work.
+Coordinates: 41.86745, -87.630554
+17)  @ 20190313-1702 --- Between Harrison St and Jackson Blvd/Exit 51G - Roadwork.
+Coordinates: 41.87448, -87.64504
+18)  @ 20190313-1702 --- Ramp  to I-90/I-94 Eastbound and W Taylor St - Roadwork.
+Coordinates: 41.87523, -87.64807
+19)  @ 20190313-1702 --- Ramp  closed to Dan Ryan Expy northbound connector ramp to - Closed due to roadwork.
+Coordinates: 41.87334, -87.64455
